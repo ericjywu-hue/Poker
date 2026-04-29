@@ -1,7 +1,5 @@
 # 🃏 Royal Poker — 五張撲克牌
 
-視窗程式設計 (II) 上課練習(2)
-
 ---
 
 ## 專案簡介
@@ -98,12 +96,12 @@ Poker.sln              # 方案檔
 
 ## 螢幕截圖
 
-<img width="898" height="811" alt="image" src="https://github.com/user-attachments/assets/36fde7aa-2bc6-4840-9bb1-8099f446c8ea" />
-<img width="897" height="815" alt="image" src="https://github.com/user-attachments/assets/38968c0c-38f2-455f-96d7-e3bac92f3d47" />
-<img width="901" height="812" alt="image" src="https://github.com/user-attachments/assets/8195b23f-90b1-4f89-9718-04bf150a85f6" />
-<img width="899" height="810" alt="image" src="https://github.com/user-attachments/assets/faf9381d-086c-45a7-8534-a4dc47c337cb" />
-<img width="900" height="810" alt="image" src="https://github.com/user-attachments/assets/3913b152-cdcc-4e8b-a0f6-4d982caec5f6" />
-<img width="898" height="815" alt="image" src="https://github.com/user-attachments/assets/9f0f7502-1716-4cf2-9086-6d94b8d8ae68" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/36fde7aa-2bc6-4840-9bb1-8099f446c8ea" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/38968c0c-38f2-455f-96d7-e3bac92f3d47" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/8195b23f-90b1-4f89-9718-04bf150a85f6" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/faf9381d-086c-45a7-8534-a4dc47c337cb" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/3913b152-cdcc-4e8b-a0f6-4d982caec5f6" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9f0f7502-1716-4cf2-9086-6d94b8d8ae68" />
 
 
 ---
